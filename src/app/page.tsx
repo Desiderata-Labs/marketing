@@ -19,16 +19,6 @@ const products = [
     description: "Easy insights. Easy decisions. Easy progress.",
   },
   {
-    name: "GrowPilot",
-    url: "https://growpilot.bot",
-    description: "Writes like humans, grows on autopilot.",
-  },
-  {
-    name: "Stackwise",
-    url: "https://stackwise.me",
-    description: "Optimize your health stack.",
-  },
-  {
     name: "Ecole Nola",
     url: "https://ecolenola.com",
     description: "Every child has super powers.",
