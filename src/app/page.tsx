@@ -9,19 +9,14 @@ const products = [
     description: "Personal software. Built for change.",
   },
   {
-    name: "Shippy",
-    url: "https://shippy.sh",
-    description: "Ship work. Earn royalties.",
+    name: "Super School",
+    url: "https://superschool.ca",
+    description: "Personalized learning. Built around your child.",
   },
   {
-    name: "Innerview",
-    url: "https://innerview.co",
-    description: "Easy insights. Easy decisions. Easy progress.",
-  },
-  {
-    name: "Ecole Nola",
-    url: "https://ecolenola.com",
-    description: "Every child has super powers.",
+    name: "Anything",
+    url: "https://anything.store",
+    description: "Find a project. Make it yours. Share what you make.",
   },
 ];
 
